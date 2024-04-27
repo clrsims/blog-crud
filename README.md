@@ -18,7 +18,7 @@ This is Synthwave ’84, my VSCode theme :)
 
 About Page
 
-	From the beginning, I knew I wanted my home page to be the most visual webpage. I wanted users of my website to feel like the home page was interacting with them, rather than vice versa. Thus, to add interactivity, I incorporated three features:
+From the beginning, I knew I wanted my home page to be the most visual webpage. I wanted users of my website to feel like the home page was interacting with them, rather than vice versa. Thus, to add interactivity, I incorporated three features:
 
 1)	Typing Animation
 
