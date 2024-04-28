@@ -1,5 +1,7 @@
 # personal-website
 
+http://303.itpwebdev.com/~clsims/assignments/final_project/about.html
+
 Hello, and welcome to my personal website! Here, you can learn more about who I am, my work, and what I’m thinking about. In this summary, I’ll take you through step-by-step how I created each webpage, challenges I encountered and how I dealt with them, and my favorite part of each webpage.
 
 	Design
