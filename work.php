@@ -21,13 +21,13 @@
 		<!--Header-->
 		<div class="container text-content header">
 			<div class = "row mt-2">
-				<div class="col-4 name"><a href="Sims_Christopher_Resume.pdf" id="resume"  download target="_blank">Christopher Sims</a></div>
-				<div class="col heading"><a href="index.html">.about()</a></div>
+				<div class="col-4 name"><a href="doc/Sims_Christopher_Resume.pdf" id="resume"  download target="_blank">Christopher Sims</a></div>
+				<div class="col heading"><a href="about.html">.about()</a></div>
 				<div class="col heading"><a href="work.php">.work()</a></div>
 				<div class="col heading"><a href="blog.php">.blog()</a></div>
 				<div class="col-2 heading d-flex justify-content-around">
 					<a href="https://www.linkedin.com/in/christopherleesims/" target="_blank"><i class="bi bi-linkedin"></i></a>
-					<a href="https://github.com/clrsims?tab=projects" target="_blank"><i class="bi bi-github"></i></a>
+					<a href="https://github.com/clrsims?tab=repositories" target="_blank"><i class="bi bi-github"></i></a>
 					<a href="https://www.instagram.com/chrislrsims/" target="_blank"><i class="bi bi-instagram"></i></a>
 				</div>
 			</div>
