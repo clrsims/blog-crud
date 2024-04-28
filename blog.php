@@ -69,7 +69,7 @@
 		<div class="container text-content header">
 			<div class = "row mt-2">
 				<div class="col-4 name"><a href="Sims_Christopher_Resume.pdf" id="resume"  download target="_blank">Christopher Sims</a></div>
-				<div class="col heading"><a href="about.html">.about()</a></div>
+				<div class="col heading"><a href="index.html">.about()</a></div>
 				<div class="col heading"><a href="work.php">.work()</a></div>
 				<div class="col heading"><a href="blog.php">.blog()</a></div>
 				<div class="col-2 heading d-flex justify-content-around">
