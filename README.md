@@ -18,7 +18,7 @@ Designed and deployed a CRUD web app that lets me publish, search, and delete bl
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [your-repository-url]
+   git clone https://github.com/clrsims/fullstack-blog-crud.git
    ```
 
 2. Configure your web server:
